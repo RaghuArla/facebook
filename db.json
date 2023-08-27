@@ -1,0 +1,20 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" },
+      { "id": 2, "title": "json-server", "author": "typicode" },
+      { "id": 3, "title": "json-server", "author": "typicode" },
+      { "id": 4, "title": "json-server", "author": "typicode" }
+
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "contacts": [
+      { "id": 1, "name": "Raghu Arla", "Designation": "Java developer" },
+      { "id": 2, "name": "Abhi Janjerla", "Designation": "UI/UX developer" },
+      { "id": 3, "name": "Ammu", "Designation": "Quality Analyt"}
+
+
+    ]
+  }
